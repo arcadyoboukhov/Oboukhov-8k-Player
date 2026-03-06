@@ -1,0 +1,16 @@
+﻿   Qt/MSBuild: 3.4.1.0
+  Reading Qt configuration (C:/Qt/6.10.1/msvc2022_64/bin/qmake)
+   Qt: 6.10.1
+  uic OboukhovPlayer.ui
+  rcc OboukhovPlayer.qrc
+  moc OboukhovPlayer.h
+   RCC: Warning: No resources in 'C:\Users\Admin\source\repos\OboukhovPlayer\OboukhovPlayer\OboukhovPlayer.qrc'.
+  OboukhovPlayer.cpp
+  main.cpp
+  qrc_OboukhovPlayer.cpp
+  moc_OboukhovPlayer.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 187 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  OboukhovPlayer.vcxproj -> C:\Users\Admin\source\repos\OboukhovPlayer\x64\Release\OboukhovPlayer.exe

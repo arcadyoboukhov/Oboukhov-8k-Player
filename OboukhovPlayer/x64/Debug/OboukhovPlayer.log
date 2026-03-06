@@ -1,0 +1,7 @@
+﻿   Qt/MSBuild: 3.4.1.0
+   Qt: 6.10.1
+  moc OboukhovPlayer.h
+  OboukhovPlayer.cpp
+  main.cpp
+  moc_OboukhovPlayer.cpp
+  OboukhovPlayer.vcxproj -> C:\Users\Admin\source\repos\OboukhovPlayer\x64\Debug\OboukhovPlayer.exe
